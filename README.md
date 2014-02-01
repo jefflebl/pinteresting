@@ -6,3 +6,5 @@ This is the pinteresting sample application for
 by [Jeff LeBlanc](http://twitter.com/jefflebl)
 
 I'm hoping to start coding as a hobby and to build, ultimately, my own web app using Ruby on Rails.
+
+This is fun.  Trying one more change to get the dance down.
